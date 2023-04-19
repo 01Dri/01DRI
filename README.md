@@ -24,3 +24,8 @@
   
 
 ##
+  
+  ## :snake: Activities :
+
+![Snake animation](https://github.com/01Dri/blob/output/github-contribution-grid-snake.svg)
+
