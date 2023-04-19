@@ -17,7 +17,7 @@
   
 < <a id="linkedin" href="https://www.linkedin.com/in/diego-henrique-a6b0b2263/">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=000000&logo=Linkedin&logoColor=FFFFFF&label="/>
-</a>et="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 <a id="twitter" href="https://twitter.com/dri_dev">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=Twitter&logoColor=FFFFFF&label="/>
   
