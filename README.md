@@ -19,7 +19,4 @@
 <a id="twitter" href="https://twitter.com/dri_dev">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=Twitter&logoColor=FFFFFF&label="/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01Dritheme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1Dri&theme=dark)
-
-  
 
