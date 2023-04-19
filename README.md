@@ -18,12 +18,9 @@
   
 <a id="twitter" href="https://twitter.com/dri_dev">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=Twitter&logoColor=FFFFFF&label="/>
-  
+ <table align="center">
 
-##
-  
-###
-   <tr>
+  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -59,6 +56,7 @@
     </td>
     
 </tr>
-##
+
+</table>
   
 
