@@ -4,7 +4,7 @@
 - 🌱 𝙀𝙨𝙩𝙤𝙪 𝙚𝙨𝙩𝙪𝙙𝙖𝙣𝙙𝙤 𝘽𝙖𝙘𝙠-𝙀𝙣𝙙 𝙚𝙢 𝙅𝙖𝙫𝙖.
 - 💬 𝙄𝙣𝙞𝙘𝙞𝙖𝙣𝙙𝙤 𝙣𝙖 𝙖𝙧𝙚𝙖 𝙙𝙚 𝙩𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖.
 - 📫 𝙀𝙢𝙖𝙞𝙡 𝙥𝙖𝙧𝙖 𝙘𝙤𝙣𝙩𝙖𝙩𝙤: 𝙝𝙚𝙚𝙣𝙧𝙞𝙠𝙠03@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢.
-- 📕 𝙎𝙠𝙞𝙡𝙡𝙨
+- 📕 𝙃𝙖𝙗𝙞𝙡𝙞𝙙𝙖𝙙𝙚𝙨
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
  
