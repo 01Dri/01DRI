@@ -5,7 +5,6 @@
 - 💬 𝙄𝙣𝙞𝙘𝙞𝙖𝙣𝙙𝙤 𝙣𝙖 𝙖𝙧𝙚𝙖 𝙙𝙚 𝙩𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖.
 - 📫 𝙀𝙢𝙖𝙞𝙡 𝙥𝙖𝙧𝙖 𝙘𝙤𝙣𝙩𝙖𝙩𝙤: 𝙝𝙚𝙚𝙣𝙧𝙞𝙠𝙠03@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢.
 - 📕 𝙎𝙠𝙞𝙡𝙡𝙨
-- 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
  
