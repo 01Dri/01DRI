@@ -1,17 +1,15 @@
-### Olá eu sou Diego 👋
+# Hello, World!
+My name is Diego, I'm a beginner in web development.
 
-- 🔭 𝘼𝙞𝙣𝙙𝙖 𝙣𝙖𝙤 𝙥𝙤𝙨𝙨𝙪𝙤 𝙪𝙢 𝙚𝙢𝙥𝙧𝙚𝙜𝙤 𝙣𝙖 𝙖𝙧𝙚𝙖.
-- 🌱 𝙀𝙨𝙩𝙤𝙪 𝙚𝙨𝙩𝙪𝙙𝙖𝙣𝙙𝙤 𝘽𝙖𝙘𝙠-𝙀𝙣𝙙 𝙚𝙢 𝙅𝙖𝙫𝙖.
-- 💬 𝙄𝙣𝙞𝙘𝙞𝙖𝙣𝙙𝙤 𝙣𝙖 𝙖𝙧𝙚𝙖 𝙙𝙚 𝙩𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖.
-- 📫 𝙀𝙢𝙖𝙞𝙡 𝙥𝙖𝙧𝙖 𝙘𝙤𝙣𝙩𝙖𝙩𝙤: 𝙝𝙚𝙚𝙣𝙧𝙞𝙠𝙠𝟬𝟯@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢.
-- 📕 𝙃𝙖𝙗𝙞𝙡𝙞𝙙𝙖𝙙𝙚𝙨
+My main skill is with the Java language, I also had contact with Python, but nothing very in-depth.
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
  
  ##
- 
+I have several spring projects in my repositories, take a look there!
+
  ###
--📱 𝙍𝙚𝙙𝙚𝙨 𝙎𝙤𝙘𝙞𝙖𝙞𝙨
+-📱 Social media
 
 <a id="linkedin" href="https://www.linkedin.com/in/diego-henrique-a38760274/">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=000000&logo=Linkedin&logoColor=FFFFFF&label="/>
