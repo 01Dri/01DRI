@@ -9,7 +9,7 @@ My main skill is with the Java language, I also had contact with Python, but not
 I have several spring projects in my repositories, take a look there!
 
  ###
-# 📱 Social media
+# Social media
 
 <a id="linkedin" href="https://www.linkedin.com/in/diego-henrique-a38760274/">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=000000&logo=Linkedin&logoColor=FFFFFF&label="/>
