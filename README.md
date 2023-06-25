@@ -1,7 +1,8 @@
 # Hello, World!
 My name is Diego, I'm a beginner in web development.
+ ### 
 
-# About
+# Stack
 My main skill is with the Java language, I also had contact with Python, but nothing very in-depth.
 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
